@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "changed hard drive on drive 5",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 8 not responding",
+      "attention": true,
+      "date": "03-09-2019",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 1,
+      "message": "Workstation 02 fixed",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Sam Smith"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "Jef",
+      "lastName": "Ngugi"
+    },
+    {
+      "id": 3,
+      "firstName": "Sarah",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Amos",
+      "lastName": "Mwathi",
+      "id": 4
+    }
+  ]
+}
