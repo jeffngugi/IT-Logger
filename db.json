@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "First Log",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2019-08-25T12:30:28.669Z"
-    },
-    {
       "message": "Fixed the cables",
       "attention": false,
       "tech": "Jeff Ngugi",
@@ -22,11 +15,25 @@
       "date": "2019-08-25T12:30:21.497Z"
     },
     {
+      "id": 4,
       "message": "repair RJ45 cable 23E3",
-      "attention": false,
+      "attention": true,
       "tech": "Faith Njeri",
-      "date": "2019-08-25T12:22:32.371Z",
-      "id": 4
+      "date": "2019-08-25T20:24:19.526Z"
+    },
+    {
+      "message": "Log message to search",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-08-25T20:26:54.128Z",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "message": "Sixth log",
+      "attention": true,
+      "tech": "Faith Njeri",
+      "date": "2019-08-25T20:28:08.545Z"
     }
   ],
   "techs": [
