@@ -2,24 +2,31 @@
   "logs": [
     {
       "id": 1,
-      "message": "changed hard drive on drive 5",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "message": "First Log",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2019-08-25T12:30:28.669Z"
     },
     {
-      "id": 2,
-      "message": "Workstation 8 not responding",
-      "attention": true,
-      "date": "03-09-2019",
-      "tech": "Sam Smith"
+      "message": "Fixed the cables",
+      "attention": false,
+      "tech": "Jeff Ngugi",
+      "date": "2019-08-25T09:10:11.714Z",
+      "id": 2
     },
     {
       "id": 3,
-      "message": "Workstation 02 fixed",
+      "message": "Hard drive working now",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "Faith Njeri",
+      "date": "2019-08-25T12:30:21.497Z"
+    },
+    {
+      "message": "repair RJ45 cable 23E3",
+      "attention": false,
+      "tech": "Faith Njeri",
+      "date": "2019-08-25T12:22:32.371Z",
+      "id": 4
     }
   ],
   "techs": [
