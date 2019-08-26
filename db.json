@@ -17,23 +17,30 @@
     {
       "id": 4,
       "message": "repair RJ45 cable 23E3",
-      "attention": true,
+      "attention": false,
       "tech": "Faith Njeri",
-      "date": "2019-08-25T20:24:19.526Z"
+      "date": "2019-08-26T14:10:53.311Z"
     },
     {
+      "id": 5,
       "message": "Log message to search",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2019-08-25T20:26:54.128Z",
-      "id": 5
+      "attention": true,
+      "tech": "Jeff Ngugi",
+      "date": "2019-08-26T18:42:37.890Z"
     },
     {
       "id": 6,
       "message": "Sixth log",
-      "attention": true,
+      "attention": false,
       "tech": "Faith Njeri",
-      "date": "2019-08-25T20:28:08.545Z"
+      "date": "2019-08-26T14:11:29.030Z"
+    },
+    {
+      "id": 7,
+      "message": "log message here",
+      "attention": true,
+      "tech": "Jef Ngugi",
+      "date": "2019-08-26T18:41:35.734Z"
     }
   ],
   "techs": [
@@ -56,6 +63,16 @@
       "firstName": "Amos",
       "lastName": "Mwathi",
       "id": 4
+    },
+    {
+      "firstName": "Geoffrey",
+      "lastName": "Mwathi",
+      "id": 5
+    },
+    {
+      "firstName": "Eryc",
+      "lastName": "Blackks",
+      "id": 6
     }
   ]
 }
